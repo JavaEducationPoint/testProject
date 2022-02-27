@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-20T22:40:01 IST" name="Suite" finished-at="2022-02-20T22:40:01 IST" duration-ms="50">
+    <groups>
+    </groups>
+    <test started-at="2022-02-20T22:40:01 IST" name="Suite" finished-at="2022-02-20T22:40:01 IST" duration-ms="50">
+      <class name="com.jep.TestExample5">
+        <test-method signature="scenario1()[pri:0, instance:com.jep.TestExample5@48e4374]" started-at="2022-02-20T22:40:01 IST" name="scenario1" finished-at="2022-02-20T22:40:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method signature="scenario2()[pri:0, instance:com.jep.TestExample5@48e4374]" started-at="2022-02-20T22:40:01 IST" name="scenario2" finished-at="2022-02-20T22:40:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method signature="scenario3()[pri:0, instance:com.jep.TestExample5@48e4374]" started-at="2022-02-20T22:40:01 IST" name="scenario3" finished-at="2022-02-20T22:40:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+      </class> <!-- com.jep.TestExample5 -->
+      <class name="com.jep.TestExample7">
+        <test-method signature="scenario1()[pri:0, instance:com.jep.TestExample7@49d904ec]" started-at="2022-02-20T22:40:01 IST" name="scenario1" finished-at="2022-02-20T22:40:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method signature="scenario2()[pri:0, instance:com.jep.TestExample7@49d904ec]" started-at="2022-02-20T22:40:01 IST" name="scenario2" finished-at="2022-02-20T22:40:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method signature="scenario3()[pri:0, instance:com.jep.TestExample7@49d904ec]" started-at="2022-02-20T22:40:01 IST" name="scenario3" finished-at="2022-02-20T22:40:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+      </class> <!-- com.jep.TestExample7 -->
+      <class name="com.jep.TestExample8">
+        <test-method signature="scenario1()[pri:0, instance:com.jep.TestExample8@3ba9ad43]" started-at="2022-02-20T22:40:01 IST" name="scenario1" finished-at="2022-02-20T22:40:01 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+        <test-method signature="scenario2()[pri:0, instance:com.jep.TestExample8@3ba9ad43]" started-at="2022-02-20T22:40:01 IST" name="scenario2" finished-at="2022-02-20T22:40:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario2 -->
+        <test-method signature="scenario3()[pri:0, instance:com.jep.TestExample8@3ba9ad43]" started-at="2022-02-20T22:40:01 IST" name="scenario3" finished-at="2022-02-20T22:40:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario3 -->
+      </class> <!-- com.jep.TestExample8 -->
+    </test> <!-- Suite -->
+  </suite> <!-- Suite -->
+</testng-results>

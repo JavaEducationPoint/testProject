@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 28, Failures: 2, Errors: 0, Skipped: 26, Time elapsed: 0.541 s <<< FAILURE! - in TestSuite
+test1(com.jep.TestExample2)  Time elapsed: 0.339 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'QA1_Config' is required by BeforeSuite on method test1 but has not been marked @Optional or defined
+
+
+test1(com.jep.TestExample4)  Time elapsed: 0.01 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'QA1_Config' is required by @Test on method test1 but has not been marked @Optional or defined
+
+
